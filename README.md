@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glours)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=ecs-plugin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=compose-cli" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=awesome-compose" />
