@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=awesome-compose" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=compose" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=compose-spec&repo=compose-go" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=compose-spec&repo=compose-ref" />
