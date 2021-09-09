@@ -5,12 +5,12 @@
 <a href="https://github.com/docker/awesome-compose">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=awesome-compose" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/compose-spec/compose-go">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=compose-spec&repo=compose-go" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/compose-spec/compose-ref">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=compose-spec&repo=compose-ref" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/docker/compose-cli">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=compose-cli" />
 </a>
