@@ -11,6 +11,6 @@
 <a href="https://github.com/docker/compose">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=compose" />
 </a>
-<a href="https://github.com/docker/compose-cli">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=compose-cli" />
+<a href="https://github.com/docker-archive/compose-cli">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker-archive&repo=compose-cli" />
 </a>
