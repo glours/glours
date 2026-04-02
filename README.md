@@ -1,16 +1,25 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glours&count_private=true&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;Docker+%26+Compose+contributor;Open+source+enthusiast" alt="Typing SVG" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glours&langs_count=7&layout=compact)](https://github.com/glours)
+---
 
-<a href="https://github.com/docker/awesome-compose">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=awesome-compose" />
-</a>
-<a href="https://github.com/compose-spec/compose-go">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=compose-spec&repo=compose-go" />
-</a>
-<a href="https://github.com/docker/compose">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=compose" />
-</a>
-<a href="https://github.com/docker-archive/compose-cli">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=docker-archive&repo=compose-cli" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glours&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" alt="glours' GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glours&langs_count=7&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=glours&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📌 Featured Repositories
+
+| | Repository | Description |
+|---|---|---|
+| 🐳 | [docker/awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
+| 🔧 | [compose-spec/compose-go](https://github.com/compose-spec/compose-go) | Go library for the Compose specification |
+| 🐳 | [docker/compose](https://github.com/docker/compose) | Define and run multi-container apps with Docker |
+| 📦 | [docker-archive/compose-cli](https://github.com/docker-archive/compose-cli) | Docker Compose CLI cloud integrations |
